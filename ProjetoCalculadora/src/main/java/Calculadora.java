@@ -6,6 +6,12 @@ public class Calculadora {
         resultado = a + b;
         return resultado;
     }
+    
+       public int soma(int a, int b, int c, int d) {
+        int resultado;
+        resultado = a + b;
+        return resultado;
+    }
 
     public int soma(String a, String b) {
         int n1 = Integer.parseInt(a);
